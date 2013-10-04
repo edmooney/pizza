@@ -1,35 +1,41 @@
 pizza
 =====
 
-I've finally reached a point in my life where I'm relatively satisfied with the pizza I make, so I am sharing my recipe. It's nothing special. Feel free to fork it (har har) and make it your own. Pizza is one of those things that you can make a million times and each time is slightly different. 
-
-I'm certainly no expert, but after ten years of making pizzas, here's what I've learned:
-
-* FLOUR
-* HEAT
-
-Don't use all-purpose flour. Sure, you can if you want, but you'll be figthing an uphill battle. Use [Tipo 00](http://www.amazon.com/gp/product/B004O8HWEG/ref=oh_details_o00_s00_i00?ie=UTF8&psc=1). You can order it on Amazon or maybe find it in an Italian specialty store.
+Makes two 12-14 inch pizza crusts
 
 ### Ingredients
 
-* 1 packet yeast
-* 1 cup warm water
-* 1 teaspoon sugar
-* ~1 tablespoon salt
-* ~2-3 cups Tipo 00 flour
+* 1 package Active Dry yeast
+* 1.5 cups of water
+* 2 Tbsp. honey or sugar
+* 1 c. cake flour (It flour has less gluten than all purpose, and make the crust much better)
+* 1 c. wheat flour (we do this to pretend it is healthy. We used to just do the cake flour and 3 cups of all-purpose flour.)
+* 2 c. all-purpose flour
+* 1 Tbsp. olive oil
+* 2 tsp. kosher salt
 
-### Steps
+Cooking spray or olive oil (to coat bowls)
 
-* Put water and yeast in a mixing bowl. Sprinkle the sugar so the yeast has something to eat and can then poop out awesomeness.
-* Stir that shiz and give the yeast some time and privacy for pooping.
-* After 5-10 minutes, you will notice the yeast poop.
-* Stir it up (bob marley) and start slowly adding in the flour and salt.
-I find that I need 2-3 cups flour per cup of water. It's not an exact science, it's a labor of love. Feel free to rub the dough on your body. The dough should be stretchy, not too wet, not too dry.
-* If you're going to err, err on the "too wet" side, because you can always add more flour when rolling.
-* Now that your dough is "fleshy," oil a small bowl and stick it in there to rise. I usually cover it with a dish towel for "yeast privacy."
-* Let the yeast poop for another hour or so.
-* After an hour, punch the dough down and knead for a few minutes.
- * Form a ball and roll it out like a boss!
-* Add a thin layer of sauce [Don Pepino](http://www.donpepino.com/) and your cheese and (optional) toppings.
-* Crank your oven up as high (probably 550) as it will go and cook for 7-9 minutes.
-* stuff your face HARD!!!!!
+
+### Instructions
+
+* Heat water to 110 degrees (Very important to get temp right, too cool and the yeast won't proof, too hot and you'll kill the yeast. Temp must be between 100 & 120). Add honey or sugar and dissolve. Add yeast, stir to dissolve and let proof until foamy on top.
+
+* In the meantime, coat two bowls with cooking spray or olive oil.
+
+* Combine all flours, salt and 1 Tbsp. olive oil in bowl of standing mixer or food processor.  Mix on low to combine.
+
+* When yeast and water have finished proofing, add to dry ingredients.  Mix on medium low speed until dough pulls away from sides of bowl and forms a smooth ball (about 2-3 minutes).  NOTE: Depending on the humidity, you may need a bit more water (no more than a tablespoon at a time) or a bit more flour to achieve the smooth ball stage.
+
+* Sprinkle flour on counter.  Remove dough from mixing bowl and form into a ball. You should have about two pounds of dough. Cut in half and knead each piece of dough for about a minute. Shape each piece into a ball, place in oiled bowls, coating each ball in the cooking spray or oil in bowl.
+
+* Cover bowls with plastic wrap and place in a warm area for about two hours to rise. (We used to put them on our radiators during the winter or sunny window during the summer. Now we put them under our under-cabinet halogen lights.) Dough should double in size.
+
+* After dough has risen after two hours, remove from bowl and knead on lightly floured surface for 45 seconds to a minute. [Dough may be frozen for later use at this point. Wrap loosely in plastic wrap and place in ziplock bag; place in freezer for later use, refrigerator for next day use, of make your pizza now!.]
+
+* Brushing the crust with olive oil after rolling it out will give a nice browning in the oven. 
+
+* Some variations you can try are adding dried oregano, basil or parmesan cheese to the flour, makes a nice extra layer of flavor
+
+* Bake our pizzas on a pizza stone in the oven as hot as the oven will go. Our old stove would go up to 600 degrees, it took about 7 minutes, Our current stove only goes up to 550 degrees, it takes about 8 minutes. If you don't have a pizza stone, go get one, it makes a world of difference compared to putting the dough in a pan.
+
